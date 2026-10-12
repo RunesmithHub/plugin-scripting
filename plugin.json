@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "runesmith.scripting",
+  "name": "Scripting Languages",
+  "version": "0.1.0",
+  "summary": "Highlighting, comments and brackets for Python, Ruby, Perl, Perl 6, Lua, R, Julia and Clojure.",
+  "authors": [
+    "Dylan de Beer"
+  ],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/RunesmithHub/plugin-scripting",
+  "runesmithApi": "^0.2.0",
+  "projects": {
+    "contracts": "src/Runesmith.ScriptingLanguages.Contracts/Runesmith.ScriptingLanguages.Contracts.csproj",
+    "implementation": "src/Runesmith.ScriptingLanguages/Runesmith.ScriptingLanguages.csproj"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Languages"
+  ],
+  "keywords": [
+    "py",
+    "rb",
+    "pl",
+    "pm",
+    "lua",
+    "r",
+    "jl",
+    "clj",
+    "cljs",
+    "p6"
+  ]
+}

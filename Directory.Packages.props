@@ -31,6 +31,6 @@
     <PackageVersion Include="xunit.v3" Version="4.0.2" />
     <PackageVersion Include="xunit.runner.visualstudio" Version="4.0.1" />
     <!-- The TextMate engine of the Runesmith version the plugin is built for, which the tests read the grammars with. -->
-    <PackageVersion Include="TextMateSharp" Version="2.0.4" />
+    <PackageVersion Include="TextMateSharp" Version="2.0.5" />
   </ItemGroup>
 </Project>
